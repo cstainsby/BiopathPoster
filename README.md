@@ -1,2 +1,1 @@
-# BiopathPoster
-Poster for my senior design project
+![poster](./SeniorDesignPoster-1.png)
